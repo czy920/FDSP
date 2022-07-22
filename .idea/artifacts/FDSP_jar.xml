@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FDSP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FDSP_jar</output-path>
+    <root id="archive" name="FDSP.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="FDSP" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jdom-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/fernflower.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-cli-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

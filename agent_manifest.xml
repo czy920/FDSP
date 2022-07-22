@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<agents>
+    <agent name="Maxsum" class="org.gjs.algo.maxsum.MaxsumAgent" measurement="org.gjs.algo.maxsum.MaxsumMeasurement"/>
+</agents>
