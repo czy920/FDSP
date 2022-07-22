@@ -4,7 +4,6 @@ Please refer to
 https://github.com/dyc941126/DCOPBenchmarks
 
 ## Run algorithms
-Pass the following arguments to main class ``org.infrastructure.main.Solve``:
 ```bash
 -p            path to problem file
 -am am_file   path to agent_manifest.xml
